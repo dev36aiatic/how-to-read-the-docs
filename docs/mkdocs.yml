@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Documentación Proyecto Angular & WordPress | Practicas 2021-2 UNAB
+site_favicon: img/favicon.ico
+theme: readthedocs
+nav: 
+    - 'CONTENIDO:':
+      - Documentación: 'index.md'
+      - Frontend: 'frontend.md'
+      - Backend: 'backend.md'
